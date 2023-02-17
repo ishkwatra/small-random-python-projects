@@ -7,6 +7,7 @@ def take_a_break():
         title='Time to take a break!',
         message='Get up, stretch, and look away from your screen for a few minutes.',
         app_name='Break Reminder',
+        app_icon=None,
         timeout=10
     )
 
