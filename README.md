@@ -6,3 +6,5 @@ Sends a notification every 30 minutes as a reminder!
 Sends a prank notifications regarding fake virus threats with settings icons every few secons!
 3. solar_system.py:
 Turtle code to draw the solar system with the sun, 8 planets, and their orbits!
+4. russian_roulette.py:
+🚫 Do not run 🚫
